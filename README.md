@@ -1,6 +1,6 @@
 ### 
 <ul style=“list-style-type:circle">
-                                  <li> 👋 Hi, I'm Ethan</li>
+                                  <li> 👋 Hi, I'm Ethan.</li>
                                   <li> 👍 Experienced in SQL, Tableau and Excel.</li>
                                   <li> 🔭 Currently working on projects.
                                   <li> 💬 Ask me about data!
